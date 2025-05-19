@@ -48,5 +48,8 @@ The German prompts results are robust, although the early site is not as obvious
 </p>
 
 ## Usage
+Please refer to the colab notebook named "causal_trace_(1).ipynb", in which I adapt the Bloom7B model into the framework and demonstrate how a heatmap can be generated. The notebook is modified based on the original demonstration script, which are in the notebook category.
 
+## More could be done
+This project only try to reproduce the results shown in the paper and extend the framework to a multilingual aspect, however haven't place attention on ROME model, which is used to edit the fact storage within a model.
 
